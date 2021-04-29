@@ -35,10 +35,9 @@ npm run start
 
 👤 **John Leavell**
 
-* Website: https://www.linkedin.com/in/john-leavell-a67b43193/
 * Twitter: [@jdleavell](https://twitter.com/jdleavell)
 * Github: [@johnLeavell](https://github.com/johnLeavell)
-* LinkedIn: [@John Leavell](https://linkedin.com/in/John Leavell)
+* LinkedIn: [@John Leavell](https://www.linkedin.com/in/john-leavell-a67b43193/)
 
 ## 🤝 Contributing
 
